@@ -25,3 +25,8 @@ de soporte, permisos y requerimientos.
 ## Estado del proyecto
 
 Semana 1 – Diseño y Frontend base
+
+Semana 2
+Desarrollo de Micro servidores sin Servidores
+Semana 3
+Bases de Datos No Relacionales
